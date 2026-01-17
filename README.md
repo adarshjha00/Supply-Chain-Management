@@ -37,7 +37,7 @@ This project is built using  supply chain data and visualized through two intera
 
 
 # 📊 Quality, Defect & Cost Optimization Analysis
-
+![Supply Chain Dashboard](screenshots/Supply_Page_2.png)
 # ❌ Defect & Quality Insights
 * Identified 136 high-defect SKUs contributing disproportionately to quality issues  
 * Certain suppliers show consistently higher defect rates despite similar order quantities  
