@@ -7,7 +7,6 @@ The organization aims to improve its supply chain efficiency by understanding pr
 This project is built using  supply chain data and visualized through two interactive Power BI dashboards. Data was cleaned and transformed using Power Query, KPIs were calculated using DAX, and business-focused dashboards were designed to deliver actionable supply chain insights.
 
 # 🧠 Executive Summary & Key KPIs
-![Supply Page](screenshots/Supply Page 1.png)
 
 # 📊 Key KPIs
 * Total Procurement Cost: ₹1.73M  
@@ -36,10 +35,8 @@ This project is built using  supply chain data and visualized through two intera
 * Location-wise cost differences suggest logistics and transportation inefficiencies  
 * High dependency on select suppliers increases operational risk  
 
-────────────────────────────
+
 # 📊 Quality, Defect & Cost Optimization Analysis
-────────────────────────────
-![Supply Page 2](screenshots/Supply page 2.png)
 
 # ❌ Defect & Quality Insights
 * Identified 136 high-defect SKUs contributing disproportionately to quality issues  
