@@ -7,7 +7,7 @@ The organization aims to improve its supply chain efficiency by understanding pr
 This project is built using  supply chain data and visualized through two interactive Power BI dashboards. Data was cleaned and transformed using Power Query, KPIs were calculated using DAX, and business-focused dashboards were designed to deliver actionable supply chain insights.
 
 # 🧠 Executive Summary & Key KPIs
-
+![Supply Chain Dashboard](screenshots/Supply_Page_1.png)
 # 📊 Key KPIs
 * Total Procurement Cost: ₹1.73M  
 * Total Order Quantity: 9,754  
